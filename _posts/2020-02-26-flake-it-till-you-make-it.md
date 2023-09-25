@@ -3,7 +3,7 @@ layout: post
 title: Embarking on a Coding Journey
 subtitle: My First Blog Post
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/thumb_start.webp
 share-img: /assets/img/path.jpg
 tags: [blog, first]
 ---
