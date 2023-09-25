@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Embarking on a Coding Journey
+subtitle: My First Blog Post
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [blog, first]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+As a budding developer, I've always been passionate about technology, coding, and everything related to the digital world. So, it's with great excitement that I'm writing my very first blog post on my website. This marks the beginning of a new chapter in my coding journey, and I can't wait to share my insights, experiences, and discoveries with the world.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Getting started with coding was a bit like stepping into a vast and uncharted territory. I was filled with curiosity, eager to learn, and determined to unlock the secrets of this digital realm. Throughout this journey, I've encountered countless challenges, celebrated small victories.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+My developer blog will serve as a platform to document this journey. I plan to share tutorials, code snippets, and tips that I've found helpful during my learning process. I'll also write about the latest trends in the tech industry, share my thoughts on emerging technologies, and discuss the importance of continuous learning in the ever-evolving field of software development.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+But most importantly, my blog is a space for me to connect with fellow developers, aspiring coders, and tech enthusiasts. I hope to foster a community of like-minded individuals who are passionate about coding and eager to grow together.
+
+So, whether you're a seasoned developer or just starting out, I invite you to join me on this exciting adventure. Together, we'll explore the fascinating world of coding, learn from each other, and inspire one another to reach new heights in our development skills. Welcome to my developer blog – let's code, create, and innovate together!
