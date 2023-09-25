@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-subtitle: Hi! I'm Milan Gubicza🇭🇺
+title: Projects
+subtitle: Milan's Projects
 ---
-Welcome to the “A place for my tech stuff” blog. I created this blog to learn how to write better technical content, advance my knowledge, and share it along the way.
-
-I am writing about different topics in software engineering that I find interesting 🤓 I hope you will find something useful here.
+#Image To Logo
+I made that project for kids, in a programming camp, with my friend András. Used Python language. If you upload any picture, the program generates a txt file, wich you just copy and paste into turtleacademy, the turtle will draw the picture pixels by pixels.
+https://github.com/gubiczam/image_to_logo
