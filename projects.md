@@ -1,7 +1,3 @@
-------
-layout: page
-title: Milan's Projects
-------
 
 ---
 layout: post
